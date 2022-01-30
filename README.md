@@ -9,6 +9,7 @@ Planner allows user to input tasks in the time slots which are then saved in loc
 ![screenshot](/super-disco-main/Develop/assets/images/screenshot.jpg)
 
 ## Link to website:
+https://beccahurtado.github.io/work-day-scheduler/
 
 ### Created by:
 Rebecca Hurtado
