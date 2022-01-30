@@ -44,6 +44,18 @@ $(".save-btn").on("click", function() {
     localStorage.setItem(time, task);
 });
 
+let currentHour = moment().hour()
 
+for (let i = 8;i <=18;i++) {
+    var task = localStorage.getItem(i)
+    $("#" + i).val(task)
+    if(i < currentHour ) {
+        $("#" +i).addClass("past")
+    } else if ( i == currentHour) {
+        $("#" +i).addClass("present")
+    } else {
+        $("#" +i).addClass("future")
+    }
+}
 
 
