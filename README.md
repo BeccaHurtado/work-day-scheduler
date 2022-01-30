@@ -6,7 +6,7 @@ Planner allows user to input tasks in the time slots which are then saved in loc
 * CSS, JQuery, and HTML
 
 ## Screenshot of website 
-![screenshot](./develop/assets/images/screenshot.jpg)
+![screenshot](/super-disco-main/Develop/assets/images/screenshot.jpg)
 
 ## Link to website:
 
