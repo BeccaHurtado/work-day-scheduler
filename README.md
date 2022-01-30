@@ -6,8 +6,11 @@ Planner allows user to input tasks in the time slots which are then saved in loc
 * CSS, JQuery, and HTML
 
 ## Screenshot of website 
-![screenshot](./develop/images/work-day-scheduler.pdf)
+![screenshot](./develop/images/scheduler-screenshot.jpeg)
 
-## Link to website
+## Link to website:
+
+### Created by:
+Rebecca Hurtado
 
 
