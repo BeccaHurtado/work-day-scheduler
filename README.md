@@ -6,7 +6,7 @@ Planner allows user to input tasks in the time slots which are then saved in loc
 * CSS, JQuery, and HTML
 
 ## Screenshot of website 
-![screenshot](./develop/images/scheduler-screenshot.jpeg)
+![screenshot](./assets/images/screenshot.jpg)
 
 ## Link to website:
 
