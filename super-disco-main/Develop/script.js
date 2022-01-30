@@ -1,12 +1,6 @@
-$(".day-btn").on("click", function() {
-    let current = new Date();
-    let currentDay = String(current.getDate()).padStart(2, '0');
-    let currentMonth = String(current.getMonth()+1).padStart(2, '0');
-    let currentYear = current.getFullYear();
-    let currentDate = currentMonth + '/ ' + currentDay +'/ ' + currentYear;
-    
-    document.querySelector('.day-btn').textContent = currentDate;
-})
+let rightNow = moment().format("dddd, MMM Do YYYY"); {
+    currentDay.textContent = moment().format("dddd, MMMM Do YYYY");
+};
 
 $(".description").on("click", "p", function(){
     var text = $(this)
